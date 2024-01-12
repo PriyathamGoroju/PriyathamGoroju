@@ -5,12 +5,12 @@
 <h2 align='center'>Technologies that I know</h2>
 <p align="center">
   <a href="https://skillicons.dev" align='center'>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,materialui,tailwind,bootstrap,python,c,cpp&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,materialui,tailwind,bootstrap,python,c,cpp&perline=12" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev" align='center'>
-    <img src="https://skillicons.dev/icons?i=figma,github,vscode,linux,latex,autocad&perline=14" />
+    <img src="https://skillicons.dev/icons?i=figma,github,vscode,linux,latex,autocad&perline=12" />
   </a>
 </p>
 <!---
