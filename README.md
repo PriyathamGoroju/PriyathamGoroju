@@ -1,6 +1,6 @@
 - 👋 Hi, I’m PriyathamGoroju
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Nextjs
+- 👀 I’m interested in Web Development, both frontend and backend
+- 🌱 I’m currently learning Backend Development 
 <!--tech stack icons-->
 <h2 align='center'>Technologies that I know</h2>
 <p align="center">
