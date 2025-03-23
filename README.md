@@ -4,7 +4,7 @@
 <!--tech stack icons-->
 <h2 align='center'>Technologies that I know</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,materialui,tailwind,bootstrap,python,c,cpp,figma,github,vscode,linux,latex,autocad&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,materialui,tailwind,bootstrap,ruby,ror,python,c,cpp,figma,git,linux&perline=6" />
   </a>
 </p>
 <!---
